@@ -25,7 +25,7 @@ def user_input_features():
 
     data = {
         'kwh': kwh,
-        'Jumlah AC': ac_units,
+        'ac_units': Jumlah AC,
         'ac_hours_per_day': ac_hours_per_day,
         'family_size': family_size,
         'month_name': month_name,
